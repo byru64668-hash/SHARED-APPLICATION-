@@ -1,0 +1,2 @@
+# SHARED-APPLICATION-
+EAPIHS Offline Inventory App
